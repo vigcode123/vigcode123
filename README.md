@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigcode123&label=Profile%20views&color=0e75b6&style=flat" alt="vigcode123" /> </p>
 
+- 🤝 I am currently working as a **Machine Learning Engineer @ Omdena**
+
 - 🌱 I’m currently learning **Unity and Game Development**
 
 - 📫 How to reach me **jayakvv@gmail.com**
