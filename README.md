@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesha Jayakumar</h1>
-<h3 align="center">High School Student (Greater Boston), Machine Learning Engineer @ Omdena, Software Developer</h3>
+<h3 align="center">Passionate High School Student from the Greater Boston Area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigcode123&label=Profile%20views&color=0e75b6&style=flat" alt="vigcode123" /> </p>
 
