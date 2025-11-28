@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vignesha Jayakumar</h1>
+<h1 align="center">Hi, I'm Vignesha Jayakumar</h1>
+
 <h3 align="center">Passionate High School Student from the Greater Boston Area</h3>
+<h5 align= "center">Reach out at jayakvv@gmail.com</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigcode123&label=Profile%20views&color=0e75b6&style=flat" alt="vigcode123" /> </p>
-
-- 🤝 I am currently working as a **Machine Learning Engineer @ Omdena**
-
-- 🌱 I’m currently learning **Unity and Game Development**
-
-- 📫 How to reach me **jayakvv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
